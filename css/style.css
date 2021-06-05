@@ -45,3 +45,17 @@ h1 {
   text-decoration: none;
   transform: translateX(-50%);
 }
+
+.split.left .btn:hover {
+  background-color: var(--left-button-hover-color);
+  border-color: var(--left-button-hover-color);
+}
+
+.split.right .btn:hover {
+  background-color: var(--right-button-hover-color);
+  border-color: var(--right-button-hover-color);
+}
+
+.container {
+    
+}
